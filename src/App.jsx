@@ -1,12 +1,13 @@
 
-import { Link } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Home from './pages/Home';
 
 function App() {
   return (
     <div className="App">
-    <Link to='/about'>About</Link> 
-      <h1>Projetos</h1>
+    <Home />
+      
     </div>
   );
 }
