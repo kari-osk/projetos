@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kari-osk/projetos/static/css/main.073c9b0a.css",
-    "main.js": "/kari-osk/projetos/static/js/main.c3544bb7.js",
-    "index.html": "/kari-osk/projetos/index.html",
-    "main.073c9b0a.css.map": "/kari-osk/projetos/static/css/main.073c9b0a.css.map",
-    "main.c3544bb7.js.map": "/kari-osk/projetos/static/js/main.c3544bb7.js.map"
+    "main.css": "/projetos/static/css/main.073c9b0a.css",
+    "main.js": "/projetos/static/js/main.c3544bb7.js",
+    "index.html": "/projetos/index.html",
+    "main.073c9b0a.css.map": "/projetos/static/css/main.073c9b0a.css.map",
+    "main.c3544bb7.js.map": "/projetos/static/js/main.c3544bb7.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
