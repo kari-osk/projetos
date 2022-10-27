@@ -1,5 +1,5 @@
 import React from 'react'
-import SingleCard from '../SingleCard'
+import SingleCard from '../SingleCard/SingleCard'
 import { data } from '../../data'
 import { Col, Container, Row } from 'react-bootstrap'
 
@@ -13,7 +13,7 @@ const Projects = () => {
         <Row mt={4}>
           {
             data.map(data => (
-              <Col sm={12} md={6} lg={3} xl={3}  key={data.id}>
+              <Col sm={12} md={6} lg={3} xl={3} key={data.id}>
                 <SingleCard data={data} />
               </Col>
             ))
