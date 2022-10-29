@@ -1,4 +1,4 @@
-export const data = [
+export const post = [
   {
     id: 1,
     title: 'Styled component',
@@ -31,3 +31,19 @@ export const data = [
   }
 ]
 
+export const project = [
+  {
+    id: 1,
+    title: 'Glibli',
+    github: 'https://github.com/kari-osk/ghibli',
+    page: 'https://kari-osk.github.io/ghibli/',
+    image: 'image',
+  },
+  {
+    id: 1,
+    title: 'Landing page',
+    github: 'https://github.com/kari-osk/frontendmentor-news-homepage',
+    page: 'https://kari-osk.github.io/frontendmentor-news-homepage/',
+    image: 'image'
+  },
+]

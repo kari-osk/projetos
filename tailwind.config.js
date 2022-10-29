@@ -5,7 +5,7 @@ module.exports = {
     fontFamily: {
       'body': ['montserrat', 'sans-serif'],
       'sans': ['montserrat', 'sans-serif'],
-      'serif': ['Tenor Sans', 'serif']
+      'logo': ['Tenor Sans', 'montserrat', 'sans-serif']
     },
     colors: {
       'dark': '#121117',
@@ -17,9 +17,9 @@ module.exports = {
       padding: {
         DEFAULT: '1rem',
         sm: '2rem',
-        lg: '4rem',
-        xl: '5rem',
-        '2xl': '6rem',
+        lg: '5rem',
+        xl: '6rem',
+        '2xl': '7rem',
       },
     },
     screens: {
@@ -34,7 +34,7 @@ module.exports = {
       'lg': { 'min': '1024px', 'max': '1279px' },
       // => @media (min-width: 1024px and max-width: 1279px)
 
-      'xl': { 'min': '1440px' },
+      'xl': { 'min': '1440px', 'max': '2560' },
       // => @media (min 1440px ) 
 
     },
