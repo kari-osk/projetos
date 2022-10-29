@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import About from './pages/About';
-import Navbar from './components/Navbar/Navbar';
+import Navbar from './components/Navbar';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

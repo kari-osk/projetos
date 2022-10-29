@@ -1,4 +1,8 @@
+import ghibli from './assets/ghibli.png'
+import news from './assets/news.png'
+
 export const post = [
+
   {
     id: 1,
     title: 'Styled component',
@@ -37,13 +41,15 @@ export const project = [
     title: 'Glibli',
     github: 'https://github.com/kari-osk/ghibli',
     page: 'https://kari-osk.github.io/ghibli/',
-    image: 'image',
+    image: ghibli,
+    description: 'The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software.'
   },
   {
-    id: 1,
+    id: 2,
     title: 'Landing page',
     github: 'https://github.com/kari-osk/frontendmentor-news-homepage',
     page: 'https://kari-osk.github.io/frontendmentor-news-homepage/',
-    image: 'image'
+    image: news,
+    description: 'The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software.'
   },
 ]

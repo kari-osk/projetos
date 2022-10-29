@@ -34,8 +34,8 @@ module.exports = {
       'lg': { 'min': '1024px', 'max': '1279px' },
       // => @media (min-width: 1024px and max-width: 1279px)
 
-      'xl': { 'min': '1440px', 'max': '2560' },
-      // => @media (min 1440px ) 
+      'xl': { 'min': '1440px', 'max': '2560px' },
+      // => @media (min 1440px and max-width: 2560px) 
 
     },
     extend: {},
