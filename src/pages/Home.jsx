@@ -7,7 +7,7 @@ import Contact from '../components/Contact'
 
 const Home = () => {
   return (
-    <div>
+    <div id='home'>
       <div className='container mt-4'>
         <Navbar />
         <Hero />

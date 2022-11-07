@@ -12,11 +12,11 @@ const PostImage = (props) => {
 
 const Post = () => {
   return (
-    <div className='flex flex-col flex-wrap md:flex-row '>
+    <div id='post' className='flex flex-col flex-wrap md:flex-row '>
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4'>
         <div className='w-full h-full border py-4 px-4'>
-          <h2>Title</h2>
-          <p className=''>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <h2>Posts</h2>
+          <p className=''>Criação de conteúdo para o Linkedin</p>
           <button className='px-2 py-2 border hover:bg-dark hover:text-light'>Continue lendo</button>
         </div>
         {post.map((post) => (

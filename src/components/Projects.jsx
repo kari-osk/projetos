@@ -18,7 +18,7 @@ const Card = (project) => {
 const Projects = () => {
 
   return (
-    <>
+    <div id='projects'>
       <h2 className='py-4'>Projetos</h2>
       <div className='flex sm:flex-col md:flex-row gap-6'>
         <div className='grid grid-cols-1 ' >
@@ -29,7 +29,7 @@ const Projects = () => {
           ))}
         </div>
       </div>
-    </>
+    </div>
   )
 }
 
