@@ -16,7 +16,7 @@ const Post = () => {
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4'>
         <div className='w-full h-full border py-4 px-4'>
           <h2>Posts</h2>
-          <p className=''>Criação de conteúdo para o Linkedin</p>
+          <p className=''>Crio conteúdo no Linkedin, acesse para ler todos os posts</p>
           <button className='px-2 py-2 border hover:bg-dark hover:text-light'>Continue lendo</button>
         </div>
         {post.map((post) => (
