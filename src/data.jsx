@@ -44,11 +44,11 @@ export const post = [
 export const project = [
   {
     id: 1,
-    title: 'Glibli',
+    title: 'Ghibli',
     github: 'https://github.com/kari-osk/ghibli',
     page: 'https://kari-osk.github.io/ghibli/',
     image: ghibli,
-    description: 'Com intuito de estudar ReactJs com context API, criei a página responsiva com a API do Ghibli, que disponibiliza as imagens e descrições dos filmes.'
+    description: 'Projeto criado com React com context API, consumindo api do mundo mágico dos filmes da Ghibli. A página é responsiva para desktop e aparelhos portáteis. Acesse abaixo o código no github e a página.'
   },
   {
     id: 2,
@@ -56,6 +56,6 @@ export const project = [
     github: 'https://github.com/kari-osk/frontendmentor-news-homepage',
     page: 'https://kari-osk.github.io/frontendmentor-news-homepage/',
     image: news,
-    description: 'Desafio do FrontendMentor desenvolvi a landing page com ReactJS e TailwindCSS'
+    description: 'Desafio do FrontendMentor, a landing page foi desenvolvida com React e o estilo com TailwindCSS.'
   },
 ]

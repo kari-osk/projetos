@@ -27,13 +27,13 @@ module.exports = {
     screens: {
       'xs': { 'min': '375px', 'max': '639px' },
       // => @media (min-width: 375px amd max-width:639px)
-      'sm': { 'min': '640px', 'max': '768px' },
+      'sm': { 'min': '640px', 'max': '767px' },
       // => @media (min-width: 640px and max-width: 768px)
 
       'md': { 'min': '768px', 'max': '1023px' },
       // => @media (min-width: 768px and max-width: 1023px) 
 
-      'lg': { 'min': '1024px', 'max': '1280px' },
+      'lg': { 'min': '1024px', 'max': '1279px' },
       // => @media (min-width: 1024px and max-width: 1280px)
 
       'xl': { 'min': '1280px', 'max': '2560px' },
