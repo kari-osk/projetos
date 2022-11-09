@@ -17,8 +17,15 @@ const Post = () => {
         <div className='w-full h-full border py-4 px-4'>
           <h2>Postagens</h2>
           <p className=''>Aqui compartilho as postagens que criei para o Linkedin, sobre JavaScript, ReactJS e UX/UI. Acesse para ler todos os posts</p>
-          <button className='px-2 py-2 border hover:bg-dark hover:text-light'>
-            <a href='https://www.linkedin.com/in/karinaosuka' target="_blank" rel="noreferrer">Linkedin</a>
+          <button className='px-2 py-2 border  hover:bg-orange'>
+            <a
+              href='https://www.linkedin.com/in/karinaosuka'
+              target="_blank"
+              rel="noreferrer"
+              className=' text-dark no-underline'
+            >
+              Linkedin
+            </a>
           </button>
         </div>
         {post.map((post) => (
