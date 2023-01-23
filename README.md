@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJS
 - HTML e CSS
-- Bootstrap
+- TailwindCss
 - Axios
 
 ## Projeto
