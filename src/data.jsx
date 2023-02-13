@@ -7,37 +7,37 @@ export const post = [
     id: 1,
     title: 'Styled component',
     link: 'https://www.linkedin.com/feed/update/urn:li:activity:6970032767422091264/',
-    image: 'https://media.licdn.com/dms/image/C4D22AQFYEC_U4_IMBQ/feedshare-shrink_800/0/1661785306320?e=1675296000&v=beta&t=TR7YTMQTHLn5rWgR4R9gijm6YHdbeuZ6ElrEmZ5izFw'
+    image: 'https://media.licdn.com/dms/image/C4D22AQFYEC_U4_IMBQ/feedshare-shrink_800/0/1661785306320?e=1678924800&v=beta&t=hvkKF2ECEUOCCjUuEPya4zltQAxgfNyEIii-0O7N8Yk'
   },
   {
     id: 2,
     title: 'Operador ternário',
     link: 'https://www.linkedin.com/feed/update/urn:li:activity:6944625366216896512/',
-    image: 'https://media.licdn.com/dms/image/C4D22AQHYQzqao2WQyA/feedshare-shrink_800/0/1655727711105?e=1675296000&v=beta&t=XHn7BaRgQXtYq3IL35saZ5f9WDWe8DGC7tdir4qB9kc'
+    image: 'https://media.licdn.com/dms/image/C4D22AQHYQzqao2WQyA/feedshare-shrink_800/0/1655727711105?e=1678924800&v=beta&t=YbTgO3y98mTeLpksYxk1jCHEJetSpPqSNmoecMnqTrA'
   },
   {
     id: 3,
     title: 'Arrow fuction',
     link: 'https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/',
-    image: 'https://media.licdn.com/dms/image/C4D22AQGYxcCDtydPJQ/feedshare-shrink_800/0/1657199918611?e=1675296000&v=beta&t=rgqeOqgrAvpi1-S1R1n8PvwVxKeBnmLWoBfxiazHh9s'
+    image: 'https://media.licdn.com/dms/image/C4D22AQGYxcCDtydPJQ/feedshare-shrink_800/0/1657199918611?e=1678924800&v=beta&t=XyiR6DLSNOzzqrSVwR4hCUTOQbhrZY06Ob_e2rokM6E'
   },
   {
     id: 4,
     title: 'Componentes',
     link: 'https://www.linkedin.com/feed/update/urn:li:activity:6961322534172545024/',
-    image: 'https://media.licdn.com/dms/image/C4D22AQHWdpPDaqwAxw/feedshare-shrink_1280/0/1659708624574?e=1675296000&v=beta&t=n_OkGGQ-mkESo8CzoZBFGHdU-B7xdMcxpj5rENeX29Q'
+    image: 'https://media.licdn.com/dms/image/C4D22AQHWdpPDaqwAxw/feedshare-shrink_800/0/1659708624574?e=1678924800&v=beta&t=xorOMZyaMVCPDoAXbrFD3MzCcPXfDSTUbvhCUlOrf0Y'
   },
   {
     id: 5,
     title: 'Fontes',
     link: 'https://www.linkedin.com/feed/update/urn:li:activity:6985245282825342976/',
-    image: 'https://media.licdn.com/dms/image/C4D22AQFqtfGmniyrUw/feedshare-shrink_800/0/1665412252929?e=1675296000&v=beta&t=Je9oTIIJmYAV6wVkucQ2eXD70AoUgjvaHhLQekBOjs4'
+    image: 'https://media.licdn.com/dms/image/C4D22AQFqtfGmniyrUw/feedshare-shrink_1280/0/1665412252929?e=1678924800&v=beta&t=DkVfTA_7TY2nT98g-p7PLklsjW7xYt12rcQ-8aFrsTQ'
   },
   {
     id: 6,
     title: 'Praticar',
     link: 'https://www.linkedin.com/feed/update/urn:li:activity:6948262253011812352/',
-    image: 'https://media.licdn.com/dms/image/C4D22AQEXsL4HiYvQxg/feedshare-shrink_800/0/1656594812251?e=1675296000&v=beta&t=aWtkp46wDFllclxe6EphHdCRv2RGOItlHLGcDU7c2mE'
+    image: 'https://media.licdn.com/dms/image/C4D22AQEXsL4HiYvQxg/feedshare-shrink_1280/0/1656594812251?e=1678924800&v=beta&t=TP3O0bMOSdaPfcktt41JGtp6Kg2p6gP4pbKHYJyt1dY'
   },
 ]
 
