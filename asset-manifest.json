@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/projetos/static/css/main.d77d7c61.css",
-    "main.js": "/projetos/static/js/main.c445ff70.js",
+    "main.css": "/projetos/static/css/main.494294df.css",
+    "main.js": "/projetos/static/js/main.6e90fcc7.js",
     "static/media/ghibli.png": "/projetos/static/media/ghibli.9449982f5f844fb45fe2.png",
+    "static/media/regex.png": "/projetos/static/media/regex.29479051310c6e46ef32.png",
+    "static/media/praticar.png": "/projetos/static/media/praticar.a43d18b3901f5b49c37c.png",
+    "static/media/font.png": "/projetos/static/media/font.6554c8225ec63896ecf3.png",
+    "static/media/operador_ternario.png": "/projetos/static/media/operador_ternario.f01186618c4698ee1277.png",
     "static/media/news.png": "/projetos/static/media/news.55a0bbc417aab3b076d1.png",
+    "static/media/styled_components.png": "/projetos/static/media/styled_components.d5c990c040fe808b4ab2.png",
+    "static/media/arrow_function.png": "/projetos/static/media/arrow_function.781f05ff62f1495f9948.png",
+    "static/media/components.png": "/projetos/static/media/components.c9e63f01210f9ed20f16.png",
+    "static/media/innitech.png": "/projetos/static/media/innitech.c64de5f23f0d1bba53a7.png",
     "index.html": "/projetos/index.html",
-    "main.d77d7c61.css.map": "/projetos/static/css/main.d77d7c61.css.map",
-    "main.c445ff70.js.map": "/projetos/static/js/main.c445ff70.js.map"
+    "main.494294df.css.map": "/projetos/static/css/main.494294df.css.map",
+    "main.6e90fcc7.js.map": "/projetos/static/js/main.6e90fcc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d77d7c61.css",
-    "static/js/main.c445ff70.js"
+    "static/css/main.494294df.css",
+    "static/js/main.6e90fcc7.js"
   ]
 }
